@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "59723051364",
+    "firebase_url": "https://smart-farming-c8-default-rtdb.firebaseio.com",
+    "project_id": "smart-farming-c8",
+    "storage_bucket": "smart-farming-c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59723051364:android:69938e01288a3063de8a71",
+        "android_client_info": {
+          "package_name": "com.ei.smart_farming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59723051364-ssapuap8tskfcfgoof9uc5mehqdsntcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLkCXvnNkGZCD91lTvmutE-muVD9Qr-XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59723051364-ssapuap8tskfcfgoof9uc5mehqdsntcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

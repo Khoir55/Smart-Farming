@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">Smart Farming</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="menu_data">Data</string>
+    <string name="menu_info">Informasi</string>
+
+    <string name="txt_temperature">Suhu Udara</string>
+    <string name="txt_humidity">Kel. Udara</string>
+    <string name="txt_humidity_plot1">Kel. Plot 1</string>
+    <string name="txt_humidity_plot2">Kel. Plot 2</string>
+    <string name="txt_degree_celsius">°C</string>
+    <string name="txt_percent">%</string>
+
+    <string name="txt_graph_smart_farm">Grafik Smart Farming</string>
+    <string name="txt_watering_control">Kontrol Penyiraman</string>
+
+    <string name="txt_plot1">Plot 1</string>
+    <string name="txt_plot2">Plot 2</string>
+    <string name="txt_lamp">Lampu</string>
+    <string name="txt_on">ON</string>
+    <string name="txt_off">OFF</string>
+
+    <string name="txt_detail_data">Detail Data Kumulatif</string>
+    <string name="txt_detail">DETAIL</string>
+
+    <string name="txt_auto_watering">Kontrol Penyiraman Otomatis</string>
+    <string name="txt_auto_watering_exp">Hidupkan untuk penyiraman otomatis berdasarkan waktu</string>
+    <string name="txt_auto_plot1">Penyiraman Otomatis Plot 1</string>
+    <string name="txt_auto_plot2">Penyiraman Otomatis Plot 2</string>
+    <string name="txt_auto_lamp">Lampu Penerangan Otomatis</string>
+
+    <string name="txt_item1">Item 1</string>
+    <string name="txt_item2">Item 2</string>
+    <string name="txt_item3">Item 3</string>
+    <string name="txt_item4">Item 4</string>
+
+    <string name="txt_load">load</string>
+
+    <string name="txt_settings_plot1">PENGATURAN PLOT 1</string>
+    <string name="txt_settings_plot2">PENGATURAN PLOT 2</string>
+    <string name="txt_settings_lamp">PENGATURAN LAMPU PENCAHAYAAN</string>
+
+    <string name="txt_lighting_time">Waktu Pencahayaan</string>
+    <string name="txt_lighting_time_exp">Atur waktu mulai dan akhir pencahayaan</string>
+    <string name="txt_lamp_on">Lampu Menyala</string>
+    <string name="txt_lamp_off">Lampu Padam</string>
+
+    <string name="txt_watering_time">Waktu Penyiraman</string>
+    <string name="txt_watering_time_exp">Atur waktu dan lama penyiraman dalam menit/detik</string>
+    <string name="txt_time">Waktu</string>
+    <string name="txt_watering_duration">Lama Menyiram</string>
+    <string name="txt_unit">Unit</string>
+    <string name="txt_duration">Durasi</string>
+    <string name="txt_minute">Menit</string>
+    <string name="txt_second">Detik</string>
+
+    <string name="txt_day_repeat">Pengulangan Harian</string>
+    <string name="txt_day_repeat_exp">Atur penyiraman berdasarkan hari</string>
+    <string name="txt_day_lighting_repeat_exp">Atur pencahayaan berdasarkan hari</string>
+
+    <string name="txt_day1">Senin</string>
+    <string name="txt_day2">Selasa</string>
+    <string name="txt_day3">Rabu</string>
+    <string name="txt_day4">Kamis</string>
+    <string name="txt_day5">Jum\'at</string>
+    <string name="txt_day6">Sabtu</string>
+    <string name="txt_day7">Minggu</string>
+
+    <string name="txt_save">Simpan</string>
+
+    <string name="txt_data_humidity">Kelembaban Udara</string>
+    <string name="txt_data_humidity_p1">Kelembaban Plot 1</string>
+    <string name="txt_data_humidity_p2">Kelembaban Plot 2</string>
+
+    <string name="back_dashboard">Kembali ke dashboard</string>
+    <string name="version">Versi 1.4</string>
+    <string name="electins">Electins.id | Versi 1.4</string>
+    <string name="txt_info">Aplikasi Smart Farming merupakan sebuah sistem terintegrasi dengan platform IoT yang digunakan untuk mengontrol dan memonitoring tanaman pada lahan pertanian.</string>
+
+    <string name="txt_delete_data">Hapus Data</string>
+    <string name="txt_delete_exp">Apakah anda yakin menghapus semua log data?</string>
+    <string name="txt_delete">Hapus</string>
+    <string name="txt_cancel">Batal</string>
+
+    <string name="txt_delete_log_data">Hapus log data</string>
+</resources>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingVertical="5dp"
+    android:paddingHorizontal="10dp"
+    android:clickable="true"
+    android:background="@color/colorMarker"
+    android:layout_marginBottom="10dp"
+    android:orientation="vertical"
+    android:focusable="true">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/square1"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:textColor="@android:color/black"
+            android:layout_gravity="center_vertical"
+            android:background="@android:color/black"
+            android:singleLine="true"
+            android:layout_marginEnd="2dp"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        <TextView
+            android:id="@+id/item1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txt_item1"
+            android:textColor="@color/colorBlack"
+            android:singleLine="true"
+            android:textSize="10sp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="SmallSp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/square2"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:textColor="@android:color/black"
+            android:layout_gravity="center_vertical"
+            android:background="@android:color/black"
+            android:singleLine="true"
+            android:layout_marginEnd="2dp"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        <TextView
+            android:id="@+id/item2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txt_item2"
+            android:textColor="@color/colorBlack"
+            android:singleLine="true"
+            android:textSize="10sp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="SmallSp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/square3"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:textColor="@android:color/black"
+            android:layout_gravity="center_vertical"
+            android:background="@android:color/black"
+            android:singleLine="true"
+            android:layout_marginEnd="2dp"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        <TextView
+            android:id="@+id/item3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txt_item3"
+            android:textColor="@color/colorBlack"
+            android:singleLine="true"
+            android:textSize="10sp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="SmallSp" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/square4"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:textColor="@android:color/black"
+            android:layout_gravity="center_vertical"
+            android:background="@android:color/black"
+            android:singleLine="true"
+            android:layout_marginEnd="2dp"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+        <TextView
+            android:id="@+id/item4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/txt_item4"
+            android:textColor="@color/colorBlack"
+            android:singleLine="true"
+            android:textSize="10sp"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            tools:ignore="SmallSp" />
+    </LinearLayout>
+
+</LinearLayout>
